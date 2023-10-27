@@ -14,7 +14,7 @@ class Personnage {
       
 }
 
-let laRadio = [ " Wejdene " , " Annissa " , " Nirvana " , "LinkinPart" , "RollingStone"];
+let laRadio = [ " Annissa-Wejdene " , " Come As You Are-Nirvana " , " What I've Done-LinkinPart" , "Paint It Black-RollingStone", " Let It Be- Beatles"];
 
 let Perso = new Personnage("Gérard" , 10)
 let changementTaxi = 0
