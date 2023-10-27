@@ -6,7 +6,7 @@ class Personnage {
 
     }dégat ( Radio , M ,CT ){
         
-        if (Radio[M] === " Wejdene " || Radio[M] === " Annissa " ){
+        if (Radio[M] === " Annissa-Wejdene "  ){
             this.santéMentale = this.santéMentale - 1 
             CT = CT+1
         }
