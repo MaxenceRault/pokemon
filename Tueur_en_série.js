@@ -176,6 +176,6 @@ if (Jason.hp > 0) {
     console.log(Jason.name + " a tué tout le monde !!")
 }else{
 
-    console.log(" Les survivant ont gagné mais R.I.P à " + tableauMort )
+    console.log( Jason.name + " est mort . Les survivant ont gagné mais R.I.P à " + tableauMort )
 }
 
